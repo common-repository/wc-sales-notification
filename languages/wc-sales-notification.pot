@@ -1,0 +1,781 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WC Sales Notification\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-30 09:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: wc-sales-notification"
+
+#. 1: Plugin name 2: PHP 3: Required PHP version
+#: includes/base.php:102
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: admin/admin-setting.php:260
+msgid "1 day"
+msgstr ""
+
+#: admin/admin-setting.php:184 admin/admin-setting.php:209
+#: admin/admin-setting.php:234
+msgid "1 minute"
+msgstr ""
+
+#: admin/admin-setting.php:266
+msgid "1 week"
+msgstr ""
+
+#: admin/admin-setting.php:185 admin/admin-setting.php:210
+#: admin/admin-setting.php:235
+msgid "1.5 minutes"
+msgstr ""
+
+#: admin/admin-setting.php:267
+msgid "10 days"
+msgstr ""
+
+#: admin/admin-setting.php:179 admin/admin-setting.php:204
+#: admin/admin-setting.php:229
+msgid "10 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:261
+msgid "2 days"
+msgstr ""
+
+#: admin/admin-setting.php:186 admin/admin-setting.php:211
+#: admin/admin-setting.php:236
+msgid "2 minutes"
+msgstr ""
+
+#: admin/admin-setting.php:171 admin/admin-setting.php:197
+#: admin/admin-setting.php:222
+msgid "2 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:268
+msgid "2 weeks"
+msgstr ""
+
+#: admin/admin-setting.php:180 admin/admin-setting.php:205
+#: admin/admin-setting.php:230
+msgid "20 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:262
+msgid "3 days"
+msgstr ""
+
+#: admin/admin-setting.php:172
+msgid "3 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:269
+msgid "3 weeks"
+msgstr ""
+
+#: admin/admin-setting.php:181 admin/admin-setting.php:206
+#: admin/admin-setting.php:231
+msgid "30 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:263
+msgid "4 days"
+msgstr ""
+
+#: admin/admin-setting.php:173 admin/admin-setting.php:198
+#: admin/admin-setting.php:223
+msgid "4 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:270
+msgid "4 weeks"
+msgstr ""
+
+#: admin/admin-setting.php:182 admin/admin-setting.php:207
+#: admin/admin-setting.php:232
+msgid "40 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:264
+msgid "5 days"
+msgstr ""
+
+#: admin/admin-setting.php:174 admin/admin-setting.php:199
+#: admin/admin-setting.php:224
+msgid "5 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:271
+msgid "5 weeks"
+msgstr ""
+
+#: admin/admin-setting.php:183 admin/admin-setting.php:208
+#: admin/admin-setting.php:233
+msgid "50 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:265
+msgid "6 days"
+msgstr ""
+
+#: admin/admin-setting.php:175 admin/admin-setting.php:200
+#: admin/admin-setting.php:225
+msgid "6 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:272
+msgid "6 weeks"
+msgstr ""
+
+#: admin/admin-setting.php:176 admin/admin-setting.php:201
+#: admin/admin-setting.php:226
+msgid "7 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:273
+msgid "7 weeks"
+msgstr ""
+
+#: admin/admin-setting.php:177 admin/admin-setting.php:202
+#: admin/admin-setting.php:227
+msgid "8 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:274
+msgid "8 weeks"
+msgstr ""
+
+#: admin/admin-setting.php:178 admin/admin-setting.php:203
+#: admin/admin-setting.php:228
+msgid "9 seconds"
+msgstr ""
+
+#: admin/admin-setting.php:478
+msgid "Action"
+msgstr ""
+
+#: admin/admin-setting.php:576
+msgid "Add Another"
+msgstr ""
+
+#: admin/admin-setting.php:281
+msgid "Animation In"
+msgstr ""
+
+#: admin/admin-setting.php:337
+msgid "Animation Out"
+msgstr ""
+
+#: admin/admin-setting.php:390
+msgid "Background Color"
+msgstr ""
+
+#: admin/admin-setting.php:146
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/admin-setting.php:147
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/admin-setting.php:286 admin/admin-setting.php:342
+msgid "bounce"
+msgstr ""
+
+#: admin/admin-setting.php:296
+msgid "bounceIn"
+msgstr ""
+
+#: admin/admin-setting.php:297
+msgid "bounceInDown"
+msgstr ""
+
+#: admin/admin-setting.php:298
+msgid "bounceInLeft"
+msgstr ""
+
+#: admin/admin-setting.php:299
+msgid "bounceInRight"
+msgstr ""
+
+#: admin/admin-setting.php:300
+msgid "bounceInUp"
+msgstr ""
+
+#: admin/admin-setting.php:352
+msgid "bounceOut"
+msgstr ""
+
+#: admin/admin-setting.php:353
+msgid "bounceOutDown"
+msgstr ""
+
+#: admin/admin-setting.php:354
+msgid "bounceOutLeft"
+msgstr ""
+
+#: admin/admin-setting.php:355
+msgid "bounceOutRight"
+msgstr ""
+
+#: admin/admin-setting.php:356
+msgid "bounceOutUp"
+msgstr ""
+
+#: admin/admin-setting.php:635 admin/admin-setting.php:645
+#: admin/admin-setting.php:655 admin/admin-setting.php:664
+#: admin/admin-setting.php:673 admin/admin-setting.php:682
+msgid "Buy Now"
+msgstr ""
+
+#: admin/admin-setting.php:475
+msgid "Buyer"
+msgstr ""
+
+#: admin/admin-setting.php:610
+msgid "Contact Us"
+msgstr ""
+
+#: admin/admin-setting.php:404
+msgid "Content Color"
+msgstr ""
+
+#: admin/admin-setting.php:411
+msgid "Cross Icon Color"
+msgstr ""
+
+#: admin/admin-setting.php:476
+msgid "Description"
+msgstr ""
+
+#: admin/admin-setting.php:256
+msgid "Do not show purchases older than."
+msgstr ""
+
+#: admin/admin-setting.php:119
+msgid "Enable"
+msgstr ""
+
+#: admin/admin-setting.php:118
+msgid "Enable / Disable Sale Notification"
+msgstr ""
+
+#: admin/admin-setting.php:494 admin/admin-setting.php:531
+#: admin/admin-setting.php:559
+msgid "Enter Buyer Name"
+msgstr ""
+
+#: admin/admin-setting.php:497 admin/admin-setting.php:534
+#: admin/admin-setting.php:562
+msgid "Enter Description"
+msgstr ""
+
+#: admin/admin-setting.php:491 admin/admin-setting.php:528
+#: admin/admin-setting.php:556
+msgid "Enter Price"
+msgstr ""
+
+#: admin/admin-setting.php:488 admin/admin-setting.php:525
+#: admin/admin-setting.php:553
+msgid "Enter Title"
+msgstr ""
+
+#: admin/admin-setting.php:301
+msgid "fadeIn"
+msgstr ""
+
+#: admin/admin-setting.php:302
+msgid "fadeInDown"
+msgstr ""
+
+#: admin/admin-setting.php:303
+msgid "fadeInDownBig"
+msgstr ""
+
+#: admin/admin-setting.php:304
+msgid "fadeInLeft"
+msgstr ""
+
+#: admin/admin-setting.php:305
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: admin/admin-setting.php:306
+msgid "fadeInRight"
+msgstr ""
+
+#: admin/admin-setting.php:307
+msgid "fadeInRightBig"
+msgstr ""
+
+#: admin/admin-setting.php:308
+msgid "fadeInUp"
+msgstr ""
+
+#: admin/admin-setting.php:309
+msgid "fadeInUpBig"
+msgstr ""
+
+#: admin/admin-setting.php:357
+msgid "fadeOut"
+msgstr ""
+
+#: admin/admin-setting.php:358
+msgid "fadeOutDown"
+msgstr ""
+
+#: admin/admin-setting.php:359
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: admin/admin-setting.php:360
+msgid "fadeOutLeft"
+msgstr ""
+
+#: admin/admin-setting.php:361
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: admin/admin-setting.php:362
+msgid "fadeOutRight"
+msgstr ""
+
+#: admin/admin-setting.php:363
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: admin/admin-setting.php:364
+msgid "fadeOutUp"
+msgstr ""
+
+#: admin/admin-setting.php:365
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: admin/admin-setting.php:166
+msgid "First loading time"
+msgstr ""
+
+#: admin/admin-setting.php:287 admin/admin-setting.php:343
+msgid "flash"
+msgstr ""
+
+#: admin/admin-setting.php:310 admin/admin-setting.php:366
+msgid "flip"
+msgstr ""
+
+#: admin/admin-setting.php:311
+msgid "flipInX"
+msgstr ""
+
+#: admin/admin-setting.php:312
+msgid "flipInY"
+msgstr ""
+
+#: admin/admin-setting.php:367
+msgid "flipOutX"
+msgstr ""
+
+#: admin/admin-setting.php:368
+msgid "flipOutY"
+msgstr ""
+
+#: admin/admin-setting.php:688
+msgid "Free Plugins"
+msgstr ""
+
+#: admin/admin-setting.php:85
+msgid "General"
+msgstr ""
+
+#: admin/admin-setting.php:652
+msgid "HashBar Pro - WordPress Notification Bar plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "HasThemes"
+msgstr ""
+
+#: admin/admin-setting.php:397
+msgid "Heading Color"
+msgstr ""
+
+#: admin/admin-setting.php:295 admin/admin-setting.php:351
+msgid "heartBeat"
+msgstr ""
+
+#: admin/admin-setting.php:328 admin/admin-setting.php:384
+msgid "hinge"
+msgstr ""
+
+#: admin/admin-setting.php:193
+msgid "How long to keep the notification."
+msgstr ""
+
+#: admin/admin-setting.php:662
+msgid "HT Builder - WordPress Theme Builder for Elementor"
+msgstr ""
+
+#: admin/admin-setting.php:642
+msgid "HT Mega – Absolute Addons for Elementor Page Builder"
+msgstr ""
+
+#: admin/admin-setting.php:671
+msgid "HT Script Pro - Insert Header & Footer Code"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://hasthemes.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://hasthemes.com/plugins/"
+msgstr ""
+
+#: admin/admin-setting.php:477
+msgid "Image"
+msgstr ""
+
+#: admin/admin-setting.php:158
+msgid "Image Left"
+msgstr ""
+
+#: admin/admin-setting.php:153
+msgid "Image Position"
+msgstr ""
+
+#: admin/admin-setting.php:159
+msgid "Image Right"
+msgstr ""
+
+#: includes/helper_function.php:65
+msgid "Install Now"
+msgstr ""
+
+#: admin/admin-setting.php:329
+msgid "jackInTheBox"
+msgstr ""
+
+#: admin/admin-setting.php:294 admin/admin-setting.php:350
+msgid "jello"
+msgstr ""
+
+#: admin/admin-setting.php:313
+msgid "lightSpeedIn"
+msgstr ""
+
+#: admin/admin-setting.php:369
+msgid "lightSpeedOut"
+msgstr ""
+
+#: admin/admin-setting.php:242
+msgid "Limit"
+msgstr ""
+
+#: admin/admin-setting.php:133
+msgid "Manual"
+msgstr ""
+
+#: admin/admin-setting.php:95
+msgid "Manual Data"
+msgstr ""
+
+#: admin/admin-setting.php:127
+msgid "Notification Content Type"
+msgstr ""
+
+#: admin/admin-setting.php:282
+msgid "Notification Enter Animation."
+msgstr ""
+
+#: admin/admin-setting.php:154
+msgid "Notification Layout."
+msgstr ""
+
+#: admin/admin-setting.php:338
+msgid "Notification Out Animation."
+msgstr ""
+
+#: admin/admin-setting.php:192
+msgid "Notification showing time"
+msgstr ""
+
+#: admin/admin-setting.php:605
+msgid "Online Documentation"
+msgstr ""
+
+#: admin/admin-setting.php:243
+msgid "Order Limit for notification."
+msgstr ""
+
+#: admin/admin-setting.php:255
+msgid "Order Upto"
+msgstr ""
+
+#: admin/admin-setting.php:100
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/base.php:104
+msgid "PHP"
+msgstr ""
+
+#: admin/admin-setting.php:139
+msgid "Position"
+msgstr ""
+
+#: admin/admin-setting.php:626
+msgid "Premium Plugins"
+msgstr ""
+
+#: admin/admin-setting.php:634 admin/admin-setting.php:644
+#: admin/admin-setting.php:654
+msgid "Preview"
+msgstr ""
+
+#: admin/admin-setting.php:474
+msgid "Price"
+msgstr ""
+
+#: admin/admin-setting.php:288 admin/admin-setting.php:344
+msgid "pulse"
+msgstr ""
+
+#: admin/admin-setting.php:132
+msgid "Real"
+msgstr ""
+
+#: admin/admin-setting.php:515 admin/admin-setting.php:545
+#: admin/admin-setting.php:571
+msgid "Remove"
+msgstr ""
+
+#: admin/admin-setting.php:512
+msgid "Remove Image"
+msgstr ""
+
+#: admin/admin-setting.php:330
+msgid "rollIn"
+msgstr ""
+
+#: admin/admin-setting.php:331
+msgid "rollOut"
+msgstr ""
+
+#: admin/admin-setting.php:314
+msgid "rotateIn"
+msgstr ""
+
+#: admin/admin-setting.php:315
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: admin/admin-setting.php:316
+msgid "rotateInDownRight"
+msgstr ""
+
+#: admin/admin-setting.php:317
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: admin/admin-setting.php:318
+msgid "rotateInUpRight"
+msgstr ""
+
+#: admin/admin-setting.php:370
+msgid "rotateOut"
+msgstr ""
+
+#: admin/admin-setting.php:371
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: admin/admin-setting.php:372
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: admin/admin-setting.php:373
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: admin/admin-setting.php:374
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: admin/admin-setting.php:289 admin/admin-setting.php:345
+msgid "rubberBand"
+msgstr ""
+
+#: admin/admin-setting.php:140
+msgid "Sale Notification Position on frontend."
+msgstr ""
+
+#: admin/admin-setting.php:39 admin/admin-setting.php:40
+msgid "Sales Notification"
+msgstr ""
+
+#: admin/admin-setting.php:128
+msgid "Select Content Type"
+msgstr ""
+
+#: includes/base.php:122 admin/admin-setting.php:49 admin/admin-setting.php:50
+#: admin/admin-setting.php:90
+msgid "Settings"
+msgstr ""
+
+#: admin/admin-setting.php:290 admin/admin-setting.php:346
+msgid "shake"
+msgstr ""
+
+#: admin/admin-setting.php:320
+msgid "slideInDown"
+msgstr ""
+
+#: admin/admin-setting.php:321
+msgid "slideInLeft"
+msgstr ""
+
+#: admin/admin-setting.php:322
+msgid "slideInRight"
+msgstr ""
+
+#: admin/admin-setting.php:319
+msgid "slideInUp"
+msgstr ""
+
+#: admin/admin-setting.php:376
+msgid "slideOutDown"
+msgstr ""
+
+#: admin/admin-setting.php:377
+msgid "slideOutLeft"
+msgstr ""
+
+#: admin/admin-setting.php:378
+msgid "slideOutRight"
+msgstr ""
+
+#: admin/admin-setting.php:375
+msgid "slideOutUp"
+msgstr ""
+
+#: admin/admin-setting.php:442
+msgid "Successfully Settings Saved."
+msgstr ""
+
+#: admin/admin-setting.php:291 admin/admin-setting.php:347
+msgid "swing"
+msgstr ""
+
+#: admin/admin-setting.php:292 admin/admin-setting.php:348
+msgid "tada"
+msgstr ""
+
+#: admin/admin-setting.php:218
+msgid "Time between notifications."
+msgstr ""
+
+#: admin/admin-setting.php:217
+msgid "Time Interval"
+msgstr ""
+
+#: admin/admin-setting.php:473
+msgid "Title"
+msgstr ""
+
+#: admin/admin-setting.php:144
+msgid "Top Left"
+msgstr ""
+
+#: admin/admin-setting.php:145
+msgid "Top Right"
+msgstr ""
+
+#: admin/admin-setting.php:511 admin/admin-setting.php:540
+#: admin/admin-setting.php:568
+msgid "Upload Image"
+msgstr ""
+
+#: admin/admin-setting.php:600
+msgid "Video Tutorial"
+msgstr ""
+
+#: admin/admin-setting.php:680
+msgid "WC Builder - WooCommerce Page Builder for WP Bakery"
+msgstr ""
+
+#. Name of the plugin
+#: includes/base.php:103
+msgid "WC Sales Notification"
+msgstr ""
+
+#: admin/admin-setting.php:430
+msgid "WC Sales Notification Settings"
+msgstr ""
+
+#: admin/admin-setting.php:167
+msgid "When to start notification load duration."
+msgstr ""
+
+#: admin/admin-setting.php:293 admin/admin-setting.php:349
+msgid "wobble"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce Sales Notification for WordPress."
+msgstr ""
+
+#: admin/admin-setting.php:632
+msgid "WooLentor - WooCommerce Page Builder and WooCommerce Elementor Addon"
+msgstr ""
+
+#: admin/admin-setting.php:323
+msgid "zoomIn"
+msgstr ""
+
+#: admin/admin-setting.php:324
+msgid "zoomInDown"
+msgstr ""
+
+#: admin/admin-setting.php:325
+msgid "zoomInLeft"
+msgstr ""
+
+#: admin/admin-setting.php:326
+msgid "zoomInRight"
+msgstr ""
+
+#: admin/admin-setting.php:327
+msgid "zoomInUp"
+msgstr ""
+
+#: admin/admin-setting.php:379
+msgid "zoomOut"
+msgstr ""
+
+#: admin/admin-setting.php:380
+msgid "zoomOutDown"
+msgstr ""
+
+#: admin/admin-setting.php:381
+msgid "zoomOutLeft"
+msgstr ""
+
+#: admin/admin-setting.php:382
+msgid "zoomOutRight"
+msgstr ""
+
+#: admin/admin-setting.php:383
+msgid "zoomOutUp"
+msgstr ""
